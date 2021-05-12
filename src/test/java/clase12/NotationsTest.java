@@ -42,12 +42,10 @@ public class NotationsTest {
     @AfterClass
     public void afterClassNotation(){
         System.out.println("Se invoca al @AfterClass");
-
     }
 
     @AfterTest
     public void afterTestNotation(){
         System.out.println("Se invoca al @AfterTest");
-
     }
 }
