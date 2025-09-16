@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9ed5b1e-eb55-440b-a9ab-53f2a9db8d48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="18" />
+  </component>
+  <component name="ProjectId" id="1pRxSpEisdQDsToGvZyJZxc2rpI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;2d4937&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Google Drive/15-WORKSPACE - ESTUDIO - DATOS/IdeaProjects/SeleniumAcademy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Google Drive\15-WORKSPACE - ESTUDIO - DATOS\IdeaProjects\SeleniumAcademy\src\test\java\clase116\features" />
+      <recent name="D:\Google Drive\15-WORKSPACE - ESTUDIO - DATOS\IdeaProjects\SeleniumAcademy\src\test\java\clase115\Features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="clase105" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.loginTest">
+    <configuration name="EcommerceSiteTesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase103.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase103" />
+      <option name="MAIN_CLASS_NAME" value="clase103.EcommerceSiteTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcommerceSiteTesting.registrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase103.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase103" />
+      <option name="MAIN_CLASS_NAME" value="clase103.EcommerceSiteTesting" />
+      <option name="METHOD_NAME" value="registrationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindByEjemplos.ejercicio1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase104.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase104" />
+      <option name="MAIN_CLASS_NAME" value="clase104.FindByEjemplos" />
+      <option name="METHOD_NAME" value="ejercicio1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase105.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase105.tests" />
+      <option name="MAIN_CLASS_NAME" value="clase105.tests.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase105.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase105.tests" />
+      <option name="MAIN_CLASS_NAME" value="clase105.tests.LoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.EcommerceSiteTesting" />
+      <item itemvalue="TestNG.EcommerceSiteTesting.registrationTest" />
+      <item itemvalue="TestNG.FindByEjemplos.ejercicio1" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.LoginTest.loginTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.loginTest" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.FindByEjemplos.ejercicio1" />
+        <item itemvalue="TestNG.EcommerceSiteTesting" />
+        <item itemvalue="TestNG.EcommerceSiteTesting.registrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9ed5b1e-eb55-440b-a9ab-53f2a9db8d48" name="Default Changelist" comment="" />
+      <created>1615159707666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615159707666</updated>
+      <workItem from="1662653727570" duration="292000" />
+      <workItem from="1662654049413" duration="371000" />
+      <workItem from="1662654447348" duration="291000" />
+      <workItem from="1662654751527" duration="45000" />
+      <workItem from="1662654809224" duration="4078000" />
+      <workItem from="1662665016455" duration="1149000" />
+      <workItem from="1662667071613" duration="1146000" />
+      <workItem from="1662672145608" duration="3312000" />
+      <workItem from="1662675528283" duration="6000" />
+      <workItem from="1662676852556" duration="401000" />
+      <workItem from="1662677279005" duration="580000" />
+      <workItem from="1662677872300" duration="1503000" />
+      <workItem from="1662756435711" duration="2238000" />
+      <workItem from="1662760006125" duration="650000" />
+      <workItem from="1662760673613" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumAcademy$Ejercicio2Practico2.ic" NAME="Ejercicio2Practico2 Coverage Results" MODIFIED="1616353293164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>clase02.*</FILTER>
+    </SUITE>
+  </component>
+</project>
