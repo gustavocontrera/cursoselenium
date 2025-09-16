@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SeleniumAcademy" />
-        <module name="SeleniumFreeRange" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SeleniumFreeRange" target="22" />
+    </bytecodeTargetLevel>
   </component>
 </project>
